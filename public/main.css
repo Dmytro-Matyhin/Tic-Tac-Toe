@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.btn-group1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 66.5px;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+
+}
+
+.btn-group2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 67px;
+  position: absolute;
+  top: 16.5%;
+  left: 0%;
+}
+
+.btn-group3 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 67.5px;
+  position: absolute;
+  top: 33%;
+  left: 0%;
+}
+
+.button1 {
+  padding: 64px 64px;
+  cursor: pointer;
+  width: 32px;
+  display: block;
+}
+
+.button2 {
+  padding: 64px 64px;
+  cursor: pointer;
+  width: 32px;
+  display: block;
+}
+
+.button3 {
+  padding: 64px 64px;
+  cursor: pointer;
+  width: 32px;
+  display: block;
+}
